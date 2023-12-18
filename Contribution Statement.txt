@@ -1,0 +1,27 @@
+*********************************
+Group Members:
+-	Saud Alshahrani
+-	Patrick Pratt
+-	Fuad Owodunni
+*********************************
+
+*********************************
+Contributions:
+---------------------------------
+|---- Saud Alshahrani ----|
+|- Setup the game scene (objects, ground, background images, collectables, obstacles |Canvas, UI Elements, UI Design).
+
+|- Worked on the following scripts: (DifficultyButton, GameManager, MoveGems_Boxes, |OpenLink, PlayerControl, PlayerMovement).
+
+---------------------------------
+|---- Patrick Pratt ----|
+|- Worked on the prefabs and the spawning of prefabs (Colliders, Rigidbody, Obstacles, |Collectables).
+
+|- Worked on the following scripts: (SpawningManager).
+
+---------------------------------
+|---- Fuad Owodunni ----|
+|- Worked on the First Scene Main-Menu (Canvas, UI texts and buttons).
+
+|- Worked on the following scripts: (MainMenuController).
+*********************************
